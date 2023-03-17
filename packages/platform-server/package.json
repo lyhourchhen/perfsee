@@ -8,7 +8,7 @@
   "main": "./dist/index.js",
   "dependencies": {
     "@abraham/reflection": "^0.12.0",
-    "@nestjs/apollo": "^10.0.17",
+    "@nestjs/apollo": "^11.0.0",
     "@nestjs/common": "^9.0.4",
     "@nestjs/core": "^9.0.4",
     "@nestjs/event-emitter": "^1.3.0",
